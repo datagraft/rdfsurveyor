@@ -50,7 +50,7 @@ var dict = {
 		"es": "Actualizar lista de clases"},
 		
 	// classes
-	repository: { "en": "Repository",
+	repository: { "en": "Repository home",
 		"es": "Repositorio"},
 	defclasscomment: { "en": "This is a class.",
 		"es": "Esto es una clase."},
